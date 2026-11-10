@@ -1,0 +1,9 @@
+pandas
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+requests
+torch
+scikit-learn
+scipy
